@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int m1,n1,m2,n2;
+    int m1,n1,m2,n2; //m,n
     printf("Enter the A matrix limit");
     scanf("%d%d",&m1,&n1);
     printf("Enter the B matrix limit");
